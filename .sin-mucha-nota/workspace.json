@@ -1,0 +1,236 @@
+{
+  "app": "sin-mucha-nota",
+  "version": 1,
+  "exportedAt": "2026-09-28T15:23:49.001Z",
+  "updatedAt": "2026-09-28T15:22:51.853Z",
+  "preferences": {
+    "displayName": "Elias",
+    "accentColor": "#6ea8fe",
+    "themeId": "midnight",
+    "fontFamily": "rounded",
+    "locale": "es",
+    "soundEnabled": true,
+    "soundVolume": 0.93,
+    "onboardedAt": "2026-07-22T15:54:22.488Z",
+    "updatedAt": "2026-07-26T17:59:57.951Z"
+  },
+  "folders": [
+    {
+      "id": "folder_137e4774-15dc-4fa3-b51a-5df73be65673",
+      "name": "/proyecciones-modelado-del-dominio",
+      "icon": "folder",
+      "parentId": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
+      "createdAt": "2026-08-05T17:51:50.239Z",
+      "updatedAt": "2026-08-05T17:51:50.239Z"
+    },
+    {
+      "id": "folder_768c3612-e48b-4424-925e-367b9e403776",
+      "name": "agregados-modelado-del-dominio",
+      "icon": "folder",
+      "parentId": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
+      "createdAt": "2026-08-05T17:39:52.619Z",
+      "updatedAt": "2026-08-05T17:39:52.619Z"
+    },
+    {
+      "id": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
+      "name": "Codely",
+      "icon": "book",
+      "parentId": null,
+      "createdAt": "2026-07-29T20:21:47.268Z",
+      "updatedAt": "2026-07-29T20:21:47.268Z"
+    },
+    {
+      "id": "folder_1aac884d-50ac-491b-8c69-6490779b4672",
+      "name": "Dolencias",
+      "icon": "folder",
+      "parentId": "folder_3c760bf4-e70b-448d-8067-f031f9b09088",
+      "createdAt": "2026-09-14T14:13:19.708Z",
+      "updatedAt": "2026-09-14T14:13:19.708Z"
+    },
+    {
+      "id": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
+      "name": "HEALTHY DASHBOARD",
+      "icon": "folder",
+      "parentId": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
+      "createdAt": "2026-07-22T22:02:05.674Z",
+      "updatedAt": "2026-07-22T22:02:05.674Z"
+    },
+    {
+      "id": "folder_3c760bf4-e70b-448d-8067-f031f9b09088",
+      "name": "Procesos Bendo",
+      "icon": "folder",
+      "parentId": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
+      "createdAt": "2026-09-14T14:13:12.372Z",
+      "updatedAt": "2026-09-14T14:13:12.372Z"
+    },
+    {
+      "id": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
+      "name": "QPH",
+      "icon": "folder",
+      "parentId": null,
+      "createdAt": "2026-07-22T22:01:50.343Z",
+      "updatedAt": "2026-07-22T22:01:50.343Z"
+    },
+    {
+      "id": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
+      "name": "ramOS",
+      "icon": "folder",
+      "parentId": null,
+      "createdAt": "2026-09-14T19:47:03.126Z",
+      "updatedAt": "2026-09-14T19:47:03.126Z"
+    },
+    {
+      "id": "folder_c5a1e7ef-09fc-4928-91cf-fbd084c0b317",
+      "name": "Value Objects [Modelado del dominio]",
+      "icon": "folder",
+      "parentId": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
+      "createdAt": "2026-07-29T20:22:12.888Z",
+      "updatedAt": "2026-07-29T20:22:12.888Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": "note_00a6cff8-e2d8-466c-abca-4efbb7c6e2e5",
+      "title": "BPAY-2",
+      "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
+      "contentRef": {
+        "markdownPath": "notes/note_00a6cff8-e2d8-466c-abca-4efbb7c6e2e5/markdown.md",
+        "drawingPath": "notes/note_00a6cff8-e2d8-466c-abca-4efbb7c6e2e5/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-08-06T20:51:20.770Z",
+      "updatedAt": "2026-09-28T15:19:56.114Z"
+    },
+    {
+      "id": "note_922b04e4-da50-45a3-9782-8b2f09aeedbc",
+      "title": "Partes de lso SLA",
+      "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
+      "contentRef": {
+        "markdownPath": "notes/note_922b04e4-da50-45a3-9782-8b2f09aeedbc/markdown.md",
+        "drawingPath": "notes/note_922b04e4-da50-45a3-9782-8b2f09aeedbc/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-28T17:37:06.782Z",
+      "updatedAt": "2026-09-28T15:19:21.653Z"
+    },
+    {
+      "id": "note_dc4064d1-9200-44cc-910a-7cc0a2a55416",
+      "title": "..}",
+      "folderId": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
+      "contentRef": {
+        "markdownPath": "notes/note_dc4064d1-9200-44cc-910a-7cc0a2a55416/markdown.md",
+        "drawingPath": "notes/note_dc4064d1-9200-44cc-910a-7cc0a2a55416/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-09-16T22:11:47.569Z",
+      "updatedAt": "2026-09-17T19:21:39.175Z"
+    },
+    {
+      "id": "note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55",
+      "title": "iNFO",
+      "folderId": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
+      "contentRef": {
+        "markdownPath": "notes/note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55/markdown.md",
+        "drawingPath": "notes/note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-09-14T19:47:09.657Z",
+      "updatedAt": "2026-09-17T16:17:32.283Z"
+    },
+    {
+      "id": "note_97dcd7b4-14cc-46c1-8932-7fda4b9d7908",
+      "title": "Cambios",
+      "folderId": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
+      "contentRef": {
+        "markdownPath": "notes/note_97dcd7b4-14cc-46c1-8932-7fda4b9d7908/markdown.md",
+        "drawingPath": "notes/note_97dcd7b4-14cc-46c1-8932-7fda4b9d7908/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-09-16T14:06:56.078Z",
+      "updatedAt": "2026-09-16T14:06:56.078Z"
+    },
+    {
+      "id": "note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2",
+      "title": "1. Cómo evito usar JOINs",
+      "folderId": "folder_137e4774-15dc-4fa3-b51a-5df73be65673",
+      "contentRef": {
+        "markdownPath": "notes/note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2/markdown.md",
+        "drawingPath": "notes/note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-08-05T17:52:08.612Z",
+      "updatedAt": "2026-08-06T14:23:50.787Z"
+    },
+    {
+      "id": "note_63c34421-4e08-41c5-9900-c70cca7e7477",
+      "title": "2. Cómo se relacionan los agregados",
+      "folderId": "folder_768c3612-e48b-4424-925e-367b9e403776",
+      "contentRef": {
+        "markdownPath": "notes/note_63c34421-4e08-41c5-9900-c70cca7e7477/markdown.md",
+        "drawingPath": "notes/note_63c34421-4e08-41c5-9900-c70cca7e7477/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-08-05T17:49:32.146Z",
+      "updatedAt": "2026-08-05T17:49:33.288Z"
+    },
+    {
+      "id": "note_c819939d-1af4-4fba-9b59-b07c3130f60e",
+      "title": "1. Diferencias entre Entidades y Agregados",
+      "folderId": "folder_768c3612-e48b-4424-925e-367b9e403776",
+      "contentRef": {
+        "markdownPath": "notes/note_c819939d-1af4-4fba-9b59-b07c3130f60e/markdown.md",
+        "drawingPath": "notes/note_c819939d-1af4-4fba-9b59-b07c3130f60e/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-08-05T17:40:44.997Z",
+      "updatedAt": "2026-08-05T17:42:04.392Z"
+    },
+    {
+      "id": "note_5aaedb4c-4a3c-4f41-8615-5b1bcb521bd4",
+      "title": "3. Aprovecha el potencial de los Value Objects: Aplicaciones más mantenibles",
+      "folderId": "folder_c5a1e7ef-09fc-4928-91cf-fbd084c0b317",
+      "contentRef": {
+        "markdownPath": "notes/note_5aaedb4c-4a3c-4f41-8615-5b1bcb521bd4/markdown.md",
+        "drawingPath": "notes/note_5aaedb4c-4a3c-4f41-8615-5b1bcb521bd4/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-08-03T21:35:41.638Z",
+      "updatedAt": "2026-08-05T15:13:48.541Z"
+    },
+    {
+      "id": "note_feef088e-23bd-4b03-b9ef-67962682bf00",
+      "title": "2. 💩 Modelos de dominio anémicos",
+      "folderId": "folder_c5a1e7ef-09fc-4928-91cf-fbd084c0b317",
+      "contentRef": {
+        "markdownPath": "notes/note_feef088e-23bd-4b03-b9ef-67962682bf00/markdown.md",
+        "drawingPath": "notes/note_feef088e-23bd-4b03-b9ef-67962682bf00/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-30T22:24:48.352Z",
+      "updatedAt": "2026-07-31T17:26:56.342Z"
+    },
+    {
+      "id": "note_2fbfce40-cfdf-4fd5-ab4c-56602f12077a",
+      "title": "1. Características y beneficios del patrón de diseño Value Object",
+      "folderId": "folder_c5a1e7ef-09fc-4928-91cf-fbd084c0b317",
+      "contentRef": {
+        "markdownPath": "notes/note_2fbfce40-cfdf-4fd5-ab4c-56602f12077a/markdown.md",
+        "drawingPath": "notes/note_2fbfce40-cfdf-4fd5-ab4c-56602f12077a/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-30T22:03:47.791Z",
+      "updatedAt": "2026-07-30T22:22:30.357Z"
+    },
+    {
+      "id": "note_965b5240-bf14-40c3-8f94-c6739aadb862",
+      "title": "Data de los procesos",
+      "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
+      "contentRef": {
+        "markdownPath": "notes/note_965b5240-bf14-40c3-8f94-c6739aadb862/markdown.md",
+        "drawingPath": "notes/note_965b5240-bf14-40c3-8f94-c6739aadb862/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-22T22:02:18.154Z",
+      "updatedAt": "2026-07-30T12:56:28.664Z"
+    },
+    {
+      "id": "note_7d54ff31-956f-4fb6-8776-fa6a18a7c7d4",
+      "title": "pueee",
+      "folderId": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
+      "contentRef": {
+        "markdownPath": "notes/note_7d54ff31-956f-4fb6-8776-fa6a18a7c7d4/markdown.md",
+        "drawingPath": "notes/note_7d54ff31-956f-4fb6-8776-fa6a18a7c7d4/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-27T22:41:32.444Z",
+      "updatedAt": "2026-07-27T22:41:47.218Z"
+    }
+  ]
+}
