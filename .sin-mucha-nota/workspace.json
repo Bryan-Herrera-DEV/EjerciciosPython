@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-28T15:36:41.951Z",
-  "updatedAt": "2026-09-28T15:36:08.194Z",
+  "exportedAt": "2026-09-28T16:12:06.136Z",
+  "updatedAt": "2026-09-28T16:11:49.303Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#d4a373",
@@ -15,14 +15,6 @@
     "updatedAt": "2026-09-28T15:36:08.194Z"
   },
   "folders": [
-    {
-      "id": "folder_137e4774-15dc-4fa3-b51a-5df73be65673",
-      "name": "/proyecciones-modelado-del-dominio",
-      "icon": "folder",
-      "parentId": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
-      "createdAt": "2026-08-05T17:51:50.239Z",
-      "updatedAt": "2026-08-05T17:51:50.239Z"
-    },
     {
       "id": "folder_768c3612-e48b-4424-925e-367b9e403776",
       "name": "agregados-modelado-del-dominio",
@@ -62,6 +54,14 @@
       "parentId": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
       "createdAt": "2026-09-14T14:13:12.372Z",
       "updatedAt": "2026-09-14T14:13:12.372Z"
+    },
+    {
+      "id": "folder_137e4774-15dc-4fa3-b51a-5df73be65673",
+      "name": "proyecciones-modelado-del-dominio",
+      "icon": "folder",
+      "parentId": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
+      "createdAt": "2026-08-05T17:51:50.239Z",
+      "updatedAt": "2026-09-28T16:11:49.303Z"
     },
     {
       "id": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
