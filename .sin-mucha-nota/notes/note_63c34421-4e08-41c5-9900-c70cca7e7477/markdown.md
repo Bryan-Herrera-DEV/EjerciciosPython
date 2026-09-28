@@ -1,1 +1,1 @@
-Necesito poder hacer 
+Necesito poder hacer los modelados de dominio de cierta forma para que no se coquen entre ellos
