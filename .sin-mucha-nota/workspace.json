@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-28T15:28:41.923Z",
-  "updatedAt": "2026-09-28T15:28:29.039Z",
+  "exportedAt": "2026-09-28T15:29:41.922Z",
+  "updatedAt": "2026-09-28T15:29:01.525Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -90,6 +90,17 @@
   ],
   "notes": [
     {
+      "id": "note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55",
+      "title": "iNFO aaaaaaaaaaaaaaaiNFO aaaaaaaaaaaaaaaiNFO aaaaaaaaaaaaaaaiNFO aaaaaaaaaaaaaaaiNFO aaaaa",
+      "folderId": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
+      "contentRef": {
+        "markdownPath": "notes/note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55/markdown.md",
+        "drawingPath": "notes/note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-09-14T19:47:09.657Z",
+      "updatedAt": "2026-09-28T15:29:01.525Z"
+    },
+    {
       "id": "note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2",
       "title": "1. Cómo evito usar JOINs",
       "folderId": "folder_137e4774-15dc-4fa3-b51a-5df73be65673",
@@ -132,17 +143,6 @@
       },
       "createdAt": "2026-09-16T22:11:47.569Z",
       "updatedAt": "2026-09-17T19:21:39.175Z"
-    },
-    {
-      "id": "note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55",
-      "title": "iNFO",
-      "folderId": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
-      "contentRef": {
-        "markdownPath": "notes/note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55/markdown.md",
-        "drawingPath": "notes/note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55/drawing.excalidraw.json"
-      },
-      "createdAt": "2026-09-14T19:47:09.657Z",
-      "updatedAt": "2026-09-17T16:17:32.283Z"
     },
     {
       "id": "note_97dcd7b4-14cc-46c1-8932-7fda4b9d7908",
