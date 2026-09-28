@@ -1,1 +1,3 @@
 Necesito poder hacer los modelados de dominio de cierta forma para que no se coquen entre ellos...
+
+No se por que no se sincronizaaaaaaaaaaaaaaaaaaaaaaaaaaaa
