@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-28T16:24:37.170Z",
-  "updatedAt": "2026-09-28T16:24:24.655Z",
+  "exportedAt": "2026-09-28T17:29:21.174Z",
+  "updatedAt": "2026-09-28T17:28:55.293Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#d4a373",
@@ -22,6 +22,14 @@
       "parentId": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
       "createdAt": "2026-08-05T17:39:52.619Z",
       "updatedAt": "2026-08-05T17:39:52.619Z"
+    },
+    {
+      "id": "folder_b5e46c2f-8ea5-4422-bb2b-064681fe84b6",
+      "name": "Arquitectura Hexagonal",
+      "icon": "folder",
+      "parentId": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
+      "createdAt": "2026-09-28T17:28:55.293Z",
+      "updatedAt": "2026-09-28T17:28:55.293Z"
     },
     {
       "id": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
