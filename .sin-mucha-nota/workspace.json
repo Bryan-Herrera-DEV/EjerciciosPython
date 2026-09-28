@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-28T15:23:49.001Z",
-  "updatedAt": "2026-09-28T15:22:51.853Z",
+  "exportedAt": "2026-09-28T15:28:41.923Z",
+  "updatedAt": "2026-09-28T15:28:29.039Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -90,6 +90,17 @@
   ],
   "notes": [
     {
+      "id": "note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2",
+      "title": "1. Cómo evito usar JOINs",
+      "folderId": "folder_137e4774-15dc-4fa3-b51a-5df73be65673",
+      "contentRef": {
+        "markdownPath": "notes/note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2/markdown.md",
+        "drawingPath": "notes/note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-08-05T17:52:08.612Z",
+      "updatedAt": "2026-09-28T15:28:29.039Z"
+    },
+    {
       "id": "note_00a6cff8-e2d8-466c-abca-4efbb7c6e2e5",
       "title": "BPAY-2",
       "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
@@ -143,17 +154,6 @@
       },
       "createdAt": "2026-09-16T14:06:56.078Z",
       "updatedAt": "2026-09-16T14:06:56.078Z"
-    },
-    {
-      "id": "note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2",
-      "title": "1. Cómo evito usar JOINs",
-      "folderId": "folder_137e4774-15dc-4fa3-b51a-5df73be65673",
-      "contentRef": {
-        "markdownPath": "notes/note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2/markdown.md",
-        "drawingPath": "notes/note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2/drawing.excalidraw.json"
-      },
-      "createdAt": "2026-08-05T17:52:08.612Z",
-      "updatedAt": "2026-08-06T14:23:50.787Z"
     },
     {
       "id": "note_63c34421-4e08-41c5-9900-c70cca7e7477",
